@@ -6,9 +6,10 @@ I design cognitive personification for human-interfacing Artificial Intelligence
 
 Get in touch with me here: 
 
+[![Website Badge](https://img.shields.io/badge/-erosmarcello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.theotherEros.com/)](https://www.theotherEros.com/)
+[![Email Badge](https://img.shields.io/badge/-eros@theotherEros.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eros@theotherEros.com)](mailto:eros@theotherEros.com)
 [![Linkedin Badge](https://img.shields.io/badge/-erosmarcello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erosmarcello)](https://www.linkedin.com/in/erosmarcello/)
 [![Medium Badge](https://img.shields.io/badge/erosmarcello-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-eros@theotherEros.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eros@theotherEros.com)](mailto:eros@theotherEros.com)
 
 ## ⚡ Technologies
 
