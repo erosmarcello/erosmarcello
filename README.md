@@ -1,4 +1,4 @@
- ### Greetings and suluations 👋
+ ### Greetings and saluations 👋
 
 I'm Eros Marcello. I currently work as a <b>Conversational AI Design Engineer</b> at the [Apple](https://www.apple.com/)
 
