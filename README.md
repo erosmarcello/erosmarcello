@@ -1,6 +1,6 @@
- ### Greetings and saluations 👋
+ ### Hey, I'm Eros 👋
 
-I'm Eros Marcello. I currently work as a <b>Conversational AI Design Engineer</b> at the [Apple](https://www.apple.com/)
+I currently work as a <b>Conversational AI Design Engineer</b> at the [Apple](https://www.apple.com/)
 
 I design cognitive personification for human-interfacing Artificial Intelligence, including Intelligent Voice Assistants (IVAs), chatbots, multimodal applications, Generative AI and Large Language Models (LLMs).
 
