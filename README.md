@@ -5,7 +5,6 @@ I currently work as a <b>Conversational AI Design Engineer</b> at the [Apple](ht
 I design cognitive personification for human-interfacing Artificial Intelligence, including Intelligent Voice Assistants (IVAs), chatbots, multimodal applications, Generative AI and Large Language Models (LLMs).
 
 Get in touch with me here: 
-
 [![Website Badge](https://img.shields.io/badge/-www.theotherEros.com-black?style=flat-square&logo=Website&logoColor=white&link=https://www.theotherEros.com/)](https://www.theotherEros.com/)
 [![Email Badge](https://img.shields.io/badge/-eros@theotherEros.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eros@theotherEros.com)](mailto:eros@theotherEros.com)
 [![Linkedin Badge](https://img.shields.io/badge/-erosmarcello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erosmarcello)](https://www.linkedin.com/in/erosmarcello/)
