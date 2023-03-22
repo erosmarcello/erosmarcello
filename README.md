@@ -22,3 +22,6 @@ Get in touch with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-lightblue?style=flat-square&logo=sourcetree)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=erosmarcello&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erosmarcello&hide=TeX&layout=compact)
