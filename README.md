@@ -6,9 +6,9 @@ I design cognitive personification for human-interfacing Artificial Intelligence
 
 Get in touch with me here: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erosmarcello)](https://www.linkedin.com/in/erosmarcello/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-erosmarcello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erosmarcello)](https://www.linkedin.com/in/erosmarcello/)
+[![Medium Badge](https://img.shields.io/badge/erosmarcello-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-eros@theotherEros.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eros@theotherEros.com)](mailto:eros@theotherEros.com)
 
 ## ⚡ Technologies
 
