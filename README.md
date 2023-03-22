@@ -13,7 +13,7 @@ Get in touch with me here:
 
 ## ⚡ Technologies
 
-<br>Conversational AI</br>
+<b>Conversational AI</b>
 
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
