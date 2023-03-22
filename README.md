@@ -53,9 +53,8 @@ Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
-![Sourcetree](https://img.shields.io/badge/-Sourcetree-lightblue?style=flat-square&logo=sourcetree)
+![Sourcetree](https://img.shields.io/badge/-Sourcetree-lightblue?style=<br>&logo=sourcetree)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 OS
 
