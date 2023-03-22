@@ -24,4 +24,5 @@ Get in touch with me here:
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-lightblue?style=flat-square&logo=sourcetree)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=erosmarcello&count_private=true&show_icons=true&include_all_commits=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erosmarcello&hide=TeX&layout=compact)
