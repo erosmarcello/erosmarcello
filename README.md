@@ -1,6 +1,6 @@
  ### Hey, I'm Eros 👋
 
-I currently work as a <b>Conversational AI Design Engineer</b> at ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)com/)
+I currently work as a <b>Conversational AI Design Engineer</b> at ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 I design cognitive personification for human-interfacing Artificial Intelligence, including Intelligent Voice Assistants (IVAs), chatbots, multimodal applications, Generative AI and Large Language Models (LLMs).
 
