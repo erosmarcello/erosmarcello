@@ -4,6 +4,8 @@ I currently work as a <b>Conversational AI Design Engineer</b> at ![Apple](https
 
 I design cognitive personification for human-interfacing Artificial Intelligence, including Intelligent Voice Assistants (IVAs), chatbots, multimodal applications, Generative AI and Large Language Models (LLMs).
 
+Additionally, I maintain vested, exploratory interests in other realms of Machine Learning such as GANNs, Adversarial Injection in language and vision systems, Space Technology and Quantum ML.
+
 Get in touch with me here:
 
 [![Website Badge](https://img.shields.io/badge/-www.theotherEros.com-black?style=flat-square&logo=Website&logoColor=white&link=https://www.theotherEros.com/)](https://www.theotherEros.com/)
