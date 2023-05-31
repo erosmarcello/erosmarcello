@@ -9,7 +9,7 @@
 
 ---
 
-- 🧠 My multidisplinary skillset is a unqiue hybridization of **AI/ML, Technical UX, Human Factors Engineering, Cognitive Engineering** and **Human-Computer Interaction**. One part technical. One part design. With both spectrums harmonizing atop the other.
+- 🧠 My multidisplinary skillset is a unqiue hybridization of **AI/ML, Human Factors & Cognitive Engineering, Holisitic UX** and **Multimodal Human-Computer Interaction**. One part technical. One part design. With both spectrums harmonizing atop the other.
 
 - ❤️ My domains of interest include **Conversational AI, Generative AI, Quantum Machine Learning, Offensive Cybersecurity** and **Neuromorphic Computing**
 
