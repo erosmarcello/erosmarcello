@@ -11,7 +11,7 @@
 
 - 🧠 My multidisplinary skillset is a unqiue hybridization of **AI/ML, Human Factors & Cognitive Engineering, Holisitic UX** and **Multimodal Human-Computer Interaction**. One part technical. One part design. With both spectrums harmonizing atop the other.
 
-- ❤️ My domains of interest include **Conversational AI, Generative AI, Quantum Machine Learning, Offensive Cybersecurity** and **Neuromorphic Computing**
+- ❤️ My domains of interest include **Conversational AI, Generative AI, Quantum Machine Learning, Defense Tech** and **Neuromorphic Computing**
 
 - 🔥 Currenty working on a first-of-its kind, human-machine invented Quantum-ready programming language for Neuromorphic Computing called **Converge**. The primary purpose of Converge being to architect resiliency into Neuromorphic systems by forecasting + fashioning attack vectors and methods based on disordered neurologicial phenomena (skitzophrenia, bipolar disorder, Tourette's syndrome, etc.) 
 
