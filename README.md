@@ -13,9 +13,9 @@
 
 - ❤️ My domains of interest include **Conversational AI (NLP/NLU), Generative Adversarial Networks, Quantum Machine Learning, Ambient Computing** and **Neuromorphic Engineering**
 
-- 🔥 In May 2023, I launched **black dream ai** - A Generative + Adversarial Machine Intelligence startup purposed to formally explore + leverage my expertise in the above areas to ultimately commoditize them via impactful, disruptive products. Currenty working on a first-of-its kind, human-machine invented Quantum-ready programming language for Neuromorphic Computing called **Converge**. The primary purpose of Converge being to architect resiliency into Neuromorphic systems by forecasting + fashioning attack vectors and methods based on disordered neurologicial phenomena (skitzophrenia, bipolar disorder, Tourette's syndrome, etc.) 
+- 🔥 In May 2023, I launched **black dream ai** - A Generative + Adversarial Machine Intelligence startup purposed to formally explore + leverage my expertise in the above areas to ultimately commoditize them via impactful, disruptive products. 
 
-- 🎓 I'm a self-taught, degreeless college dropout of **Stevens Institute of Technology** (Hoboken, New Jersey 🇺🇸) My college professor told me he didn't see me ever inventing anything. I can now buy and sell him 100 times over with the proceeds I've made from a career path I literally willed into existence. 
+- 🎓 I'm a self-taught, degreeless college dropout of **Stevens Institute of Technology** (Hoboken, New Jersey 🇺🇸) My college professor told me he didn't see me ever inventing anything, so I dropped out and now am worth 20x more than him at a fraction of the age. 
     
 - 📫 Get in touch: [eros@theotherEros.com](mailto:eros@theotherEros.com)
     
