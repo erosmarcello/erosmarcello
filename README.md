@@ -11,7 +11,7 @@
 
 - 🧠 My multidisplinary skillset is a unqiue hybridization of **AI/ML, Human Factors & Cognitive Engineering, Technical UX/UI** and **Multimodal Human-Computer Interaction**. One part technical. One part design. With both spectrums harmonizing atop the other.
 
-- I''ve worked on AI @ Apple, Salesforce, Samsung + ServiceNow. I'm now currently working on Generative AI @ Meta / Facebook.
+- I've worked on AI @ **Apple, Salesforce, Samsung + ServiceNow**. I'm now currently working on Generative AI @ **Meta (Facebook)**.
 
 - ❤️ My domains of interest include **Conversational AI (NLP/NLU), Generative Adversarial Networks, Quantum Machine Learning, Ambient Computing** and **Neuromorphic Engineering**
 
