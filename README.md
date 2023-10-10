@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erosmarcello)](https://www.linkedin.com/in/erosmarcello/)
 [![LinkTree Badge](https://img.shields.io/badge/Press-12100E?style=flat-square&logo=medium&logoColor=green&link=https://linktr.ee/erosmarcello/)](https://linktr.ee/erosmarcello/)
 
----
+--- 
 
 - 🧠 My multidisplinary skillset is a unqiue hybridization of **AI/ML, Human Factors & Cognitive Engineering, Technical UX/UI** and **Multimodal Human-Computer Interaction**. One part technical. One part design. With both spectrums harmonizing atop the other.
 
