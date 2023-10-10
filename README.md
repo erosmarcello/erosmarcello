@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erosmarcello)](https://www.linkedin.com/in/erosmarcello/)
 [![LinkTree Badge](https://img.shields.io/badge/Press-12100E?style=flat-square&logo=medium&logoColor=green&link=https://linktr.ee/erosmarcello/)](https://linktr.ee/erosmarcello/)
 
-<<<<<<< HEAD
+
 I currently work as a <b>Conversational AI Design Engineer</b> at ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 =======
 ---
