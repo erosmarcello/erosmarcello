@@ -9,7 +9,7 @@
 
 --- 
 
-- 🧠 My multidisplinary skillset is a harmony of **AI/ML, Human Factors & Cognitive Engineering, Technical UX/UI** and **Multimodal Human-Computer Interaction**. Half technical. Half design.
+- 🧠 My multidisplinary skillset is a harmony of **AI/ML, Human Factors Engineering, Technical UX/UI** and **Multimodal Human-Computer Interaction**
 
 - 🦾 I'm now currently working on Generative AI @ **Meta (Facebook)**. Formerly @ **Apple, Salesforce, Samsung + ServiceNow**. 
 
