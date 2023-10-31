@@ -9,18 +9,18 @@
 
 --- 
 
-- 🧠 My multidisplinary skillset is a unqiue hybridization of **AI/ML, Human Factors & Cognitive Engineering, Technical UX/UI** and **Multimodal Human-Computer Interaction**. One part technical. One part design. With both spectrums harmonizing atop the other.
+- 🧠 My multidisplinary skillset is a harmony of **AI/ML, Human Factors & Cognitive Engineering, Technical UX/UI** and **Multimodal Human-Computer Interaction**. Half technical. Half design.
 
-- 🦾 I've worked on AI @ **Apple, Salesforce, Samsung + ServiceNow**. I'm now currently working on Generative AI @ **Meta (Facebook)**.
+- 🦾 I'm now currently working on Generative AI @ **Meta (Facebook)**. Formerly @ **Apple, Salesforce, Samsung + ServiceNow**. 
 
-- ❤️ My domains of interest include **Conversational AI (NLP/NLU), Generative Adversarial Networks, Quantum Machine Learning, Ambient Computing** and **Neuromorphic Engineering**
+- ❤️ My areas of focus are **Conversational AI (NLP/NLU), Generative Adversarial Networks, Quantum Machine Learning, Ambient Computing** and **Neuromorphic Engineering**
 
-- 🔥 In May 2023, I launched **black dream ai** - A Generative + Adversarial Machine Intelligence startup purposed to formally explore + leverage my expertise in the above areas to ultimately commoditize them via impactful, disruptive products. 
+- 🔥 In Summer 2023, I launched **black dream ai** - A startup purposed to design, develop and ship impactful human-augmentative Artificial Intelligence software.
 
-- 🎓 I'm a self-taught, degreeless college dropout of **Stevens Institute of Technology** (Hoboken, New Jersey 🇺🇸) My college professor told me he didn't see me ever inventing anything, so I dropped out and now am worth 20x more than him at a fraction of the age. 
+- 🎓 I'm a self-taught, degreeless college dropout of **Stevens Institute of Technology** (Hoboken, New Jersey 🇺🇸)
     
-- 📫 Get in touch: [eros@theotherEros.com](mailto:eros@theotherEros.com)
+- 📫 Get in touch: [eros@blackdream.ai](mailto:eros@blackdream.ai)
     
-- 🏠 Silicon Valley, California 🇺🇸
+- 🏠 NASA Research Park (MAF), Silicon Valley, California 🇺🇸
 
 ---
