@@ -6,7 +6,7 @@
 
 --- 
 
-- 🧠 I'm an designer who codes.
+- 🧠 I'm a designer who codes.
 
 - ❤️ My areas of interest are **Conversational AI (NLP/NLU)**, **Neural Interfaces (BCIs)**, **Small Language Models**, **Liquid Neural Networks**, and  **Edge AI** 
     
