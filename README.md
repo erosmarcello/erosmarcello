@@ -8,7 +8,7 @@
 
 - 🧠 I'm a designer who codes.
 
-- ❤️ My areas of interest are **Conversational AI (NLP/NLU)**, **Neural Interfaces (BCIs)**, **Small Language Models**, **Liquid Neural Networks**, and  **Edge AI** 
+- ❤️ My areas of interest are **Conversational AI (NLP/NLU)**, **Neural Interfaces (BCIs)**, **Small Language Models**, **Liquid Time-Constant Neural Networks**, and  **Edge AI** 
     
 - 📫 Get in touch: [eros@blackdream.ai](mailto:eros@blackdream.ai)
     
