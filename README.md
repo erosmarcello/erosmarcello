@@ -6,9 +6,11 @@
 
 --- 
 
-• 🧠 I'm a designer who codes.
+• 🧠 I'm a designer who codes, specializing in Deep Tech.
 
-• 🖤 My areas of interest are **Conversational AI (NLP/NLU)**, **Neural Interfaces (BCIs)**, **Small Language Models (SLMs)**, **Liquid TC Neural Networks**, and  **Edge AI** 
+• 🖤 **NLP**, **Small Language Models (SLMs)**, **Liquid Time-Constant Neural Networks**,  **Edge** 
+
+• 🦾 I've worked on AI/ML @ **Apple**, **Meta**, **Salesforce**, **Samsung**
     
 • 📫 Get in touch: [eros@blackdream.ai](mailto:eros@blackdream.ai)
     
