@@ -8,7 +8,7 @@
 
 • 🧠 I'm a designer who codes, specializing in Deep Tech.
 
-• 🖤 **NLP**, **Small Language Models (SLMs)**, **Multimodal AI**, **Liquid Time-Constant Neural Networks**,  **Edge** 
+• 🖤 NLP, NLU, Small Language Models (SLMs), Multimodal AI, Liquid Time-Constant Neural Networks, Edge / On-Device ML, Neurotech
 
 • 🦾 I've worked on AI/ML @ **Apple**, **Meta**, **Salesforce**, **Samsung**
     
