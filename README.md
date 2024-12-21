@@ -6,12 +6,12 @@
 
 --- 
 
-• 🧠 I'm a designer who codes, specializing in Deep Tech.
+• 🧠 I'm a technical designer who codes, specializing in Deep Tech.
 
-• 🖤 NLP, NLU, Small Language Models (SLMs), Multimodal AI, Liquid Time-Constant Neural Networks, Edge / On-Device ML, Neurotech
+• 🖤 Multimodal HCI, Agentic / Multi-Agent Systems, SLMs, Liquid NNs, Edge, NeuroAI, Nuclear AI
 
-• 🦾 I've worked on AI/ML @ **Apple**, **Meta**, **Salesforce**, **Samsung**
+• 🦾 I've worked on AI @ **Apple**, **Meta**, **Salesforce**, **Samsung** + **Pfizer**
     
+• 📍 NASA Ames Research Park - Moffett Field, California
+
 • 📫 Get in touch: [eros@blackdream.ai](mailto:eros@blackdream.ai)
-    
-• 📍 NASA Ames Research Park, Silicon Valley, California, USA
