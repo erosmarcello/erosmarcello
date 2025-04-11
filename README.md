@@ -1,6 +1,6 @@
 ![Hey there!](https://media.tenor.com/acihnolEVYAAAAAC/goku-hi.gif)
 
-Hey I'm Eros. Self-taught programmer + software designer currently exploring the edge of machine learning, quantum computing, and neural interfaces.  
+I'm a self-taught software designer currently exploring the edge of machine learning, quantum computing, and neural interfaces.  
 
 ## Current Interests
 
